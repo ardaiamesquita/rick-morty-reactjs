@@ -1,12 +1,12 @@
-/*import logo from './logo.svg';*/
+
 import './App.css';
-import HeaderResponsive from './Componentes/HeaderResponsivo';
+
+import Routes from './Routes';
 
 function App() {
   return (
     <div className="App">
-      <HeaderResponsive/>
-      <MainSection/>
+      <Routes/>
     </div>
   );
 }

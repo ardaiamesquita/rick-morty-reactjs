@@ -11,7 +11,7 @@ function MainSection(){
                 <p>O brilhante clientista beberrão Rick sequestra Morty,
                      seu neto aborrecente, para viver loucuras em outros
                      mundos e dimensões alternativas.</p>
-                     <button type="subimit">Veja mais</button>
+                     <button type="subimit  ">Veja mais</button>
             </div>
             </div>
 
